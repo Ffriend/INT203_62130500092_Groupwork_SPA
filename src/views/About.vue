@@ -1,5 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <iframe
+      class="h-screen w-full"
+      src="https://www.greyhoundcafe.co.th/about/"
+    >
+    </iframe>
   </div>
 </template>
